@@ -209,7 +209,7 @@
       "url": "dialogJsInterop.js"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-T9IZ0Mq9ajyF0mo95X\/+s2TQNjNCRm3Z1XOvezuY4oY=",
       "url": "favicon.ico"
     },
     {
@@ -233,5 +233,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "gdHoycnC"
+  "version": "0\/CKcSo8"
 };
