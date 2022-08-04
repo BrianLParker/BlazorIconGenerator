@@ -1,0 +1,2 @@
+# BlazorIconGenerator
+ 
