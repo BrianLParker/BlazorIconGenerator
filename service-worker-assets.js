@@ -25,11 +25,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-CT2vdRuH6Y9GYQRfpS2zP4ucrZKyPKe57rH+8cNECP4=",
+      "hash": "sha256-RUN7hRvnt\/OCsjaK4EkxmgJM2ISg8JJ4sfGf8sjiJo4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-zG5Z4pyx68vm673x5tiTVBHcz2A4tX64tfcX+sFkhAU=",
+      "hash": "sha256-sKW7Tb78xOlapo\/O5i+t681pHxeMhdG1HsiwkhcWIGQ=",
       "url": "_framework\/BlazorIconGeneratorSource.dll"
     },
     {
@@ -225,7 +225,7 @@
       "url": "images\/bootstrap-icons\/bootstrap-icons.svg"
     },
     {
-      "hash": "sha256-Ck\/gkpRn07XBwQ5e\/LWqvs3ZQWRilqzqThVqVIBdeGs=",
+      "hash": "sha256-e5xIm0k5YLrJy93twq9x0zmhsvoCoPOloJJ0XOuURl8=",
       "url": "index.html"
     },
     {
@@ -233,5 +233,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "0\/CKcSo8"
+  "version": "BIN0MHkG"
 };
