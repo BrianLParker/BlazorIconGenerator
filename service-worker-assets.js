@@ -245,7 +245,7 @@
       "url": "images\/bootstrap-icons\/bootstrap-icons.svg"
     },
     {
-      "hash": "sha256-DSsXy\/+oRkI7E6lIW0OmhvHbxM8Dz+MWmrcx0LEDh2Q=",
+      "hash": "sha256-UVltHWKGJSSsUToKnub9EJK7gpequdtgBtDTa0Rre3M=",
       "url": "index.html"
     },
     {
@@ -253,5 +253,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "90q2eUfI"
+  "version": "CcF1BcfI"
 };
