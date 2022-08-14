@@ -77,3 +77,84 @@ dialog.bd-backdrop-blur10[b-vrz7jtgy6y]::backdrop {
     background: rgb(102,0,218);
     background: linear-gradient(114deg, rgba(102,0,218,1) 0%, rgba(124,0,145,1) 100%);
 }
+/* /Views/Components/LoadingSpinner.razor.rz.scp.css */
+.spin-container[b-pv3x7cm4t3] {
+    width: 260px;
+    height: 260px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.spin[b-pv3x7cm4t3] {
+    position: absolute;
+    border: 3px solid #0D4B9F;
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    border-radius: 50%;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    animation: rotate-b-pv3x7cm4t3 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+.loading-text[b-pv3x7cm4t3] {
+    position: absolute;
+    top: 90px;
+}
+
+.border2[b-pv3x7cm4t3] {
+    border: 3px solid #E0EDFF;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: -10px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    animation: rotate2-b-pv3x7cm4t3 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+.border3[b-pv3x7cm4t3] {
+    border: 3px solid #005CDC;
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    top: -20px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    animation: rotate-b-pv3x7cm4t3 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+.border4[b-pv3x7cm4t3] {
+    border: 3px solid #94B6E5;
+    width: 260px;
+    height: 260px;
+    position: absolute;
+    top: -30px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    animation: rotate2-b-pv3x7cm4t3 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+@keyframes rotate-b-pv3x7cm4t3 {
+    0% {
+        transform: rotateZ(-360deg)
+    }
+
+    100% {
+        transform: rotateZ(0deg)
+    }
+}
+
+@keyframes rotate2-b-pv3x7cm4t3 {
+    0% {
+        transform: rotateZ(360deg)
+    }
+
+    100% {
+        transform: rotateZ(0deg)
+    }
+}
+
+
